@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Un Bon Café!</string>
+
+    <string name="toppings" translatable="true">Garniture</string>
+    <string name="whipped_cream" translatable="true">Crème fouettée</string>
+    <string name="chocolate" translatable="true">Chocolat</string>
+    <string name="quantity" translatable="true">Quantité</string>
+    <string name="order_summary" translatable="true">Commande</string>
+    <string name="order" translatable="true">COMMANDER</string>
+</resources>
